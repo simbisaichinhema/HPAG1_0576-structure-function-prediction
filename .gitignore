@@ -1,0 +1,27 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+.DS_Store
+
+# --- Redundant / bulky raw run artifacts ---
+# Curated copies of these already live under results/; ignore the
+# original ColabFold / CASTp working directories if they are recreated.
+HPAG1_0576_f1e48/
+j_69f4f30935213/
+*.zip
+
+# --- Raw sequence inputs (keep only the curated FASTA and MSA) ---
+data/raw/*
+!data/raw/.gitkeep
+!data/raw/HPAG1_0576.fasta
+!data/raw/msa/
+!data/raw/msa/**
+
+# --- Intermediate processed data ---
+data/processed/*
+!data/processed/.gitkeep

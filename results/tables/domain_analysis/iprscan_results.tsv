@@ -1,0 +1,11 @@
+Sequence1	4cf57a268bcaf7db27e2106d975e5813	192	Gene3D	G3DSA:3.10.129.140	-	34	192	2.9E-72	T	01-05-2026	-	-	-	-
+Sequence1	4cf57a268bcaf7db27e2106d975e5813	192	Phobius	SIGNAL_PEPTIDE_N_REGION	N-terminal region of a signal peptide.	1	11	-	T	01-05-2026	-	-	-	-
+Sequence1	4cf57a268bcaf7db27e2106d975e5813	192	SignalP_GRAM_POSITIVE	SignalP-TM	SignalP-TM	1	33	-	T	01-05-2026	-	-	-	-
+Sequence1	4cf57a268bcaf7db27e2106d975e5813	192	Phobius	SIGNAL_PEPTIDE_C_REGION	C-terminal region of a signal peptide.	21	24	-	T	01-05-2026	-	-	-	-
+Sequence1	4cf57a268bcaf7db27e2106d975e5813	192	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	1	25	5.0	T	01-05-2026	-	-	-	-
+Sequence1	4cf57a268bcaf7db27e2106d975e5813	192	SignalP_EUK	SignalP-noTM	SignalP-noTM	1	26	-	T	01-05-2026	-	-	-	-
+Sequence1	4cf57a268bcaf7db27e2106d975e5813	192	Phobius	SIGNAL_PEPTIDE	Signal peptide region	1	24	-	T	01-05-2026	-	-	-	-
+Sequence1	4cf57a268bcaf7db27e2106d975e5813	192	Phobius	NON_CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.	25	192	-	T	01-05-2026	-	-	-	-
+Sequence1	4cf57a268bcaf7db27e2106d975e5813	192	Pfam	PF16753	TNF-alpha-Inducing protein of Helicobacter	32	181	1.2E-81	T	01-05-2026	IPR031923	Helicobacter TNF-alpha-inducing protein	-	-
+Sequence1	4cf57a268bcaf7db27e2106d975e5813	192	Phobius	SIGNAL_PEPTIDE_H_REGION	Hydrophobic region of a signal peptide.	12	20	-	T	01-05-2026	-	-	-	-
+Sequence1	4cf57a268bcaf7db27e2106d975e5813	192	NCBIfam	NF008960	tumor necrosis factor alpha-inducing protein	1	192	0.0	T	01-05-2026	IPR031923	Helicobacter TNF-alpha-inducing protein	-	-

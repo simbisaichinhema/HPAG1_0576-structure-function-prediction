@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, data, or analysis, please cite it as below."
+title: "Computational Structural and Functional Analysis of HPAG1_0576 (Helicobacter pylori)"
+abstract: >-
+  A reproducible computational pipeline characterizing the unannotated
+  Helicobacter pylori protein HPAG1_0576. It combines ColabFold/AlphaFold2
+  structure prediction, Ramachandran validation, CASTp pocket detection,
+  physicochemical profiling, and InterPro/NCBI-CDD domain annotation, and
+  supports classification of the protein as a secreted lipoprotein.
+authors:
+  - given-names: "Simbisai"
+    family-names: "Chinhema"
+version: 1.0.0
+date-released: 2026-07-09
+license: CC-BY-4.0
+repository-code: "https://github.com/simbisaichinhema/HPAG1_0576-structure-function-prediction"
+keywords:
+  - Helicobacter pylori
+  - HPAG1_0576
+  - ColabFold
+  - AlphaFold
+  - protein structure prediction
+  - lipoprotein
+  - CASTp
+  - InterPro
+  - computational biology
